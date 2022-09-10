@@ -17,16 +17,16 @@
 
 ## Используемые библиотеки:
 
-*pandas*
-*numpy*
-*math*
-*matplotlib*
-*scipy*
+- *pandas*
+- *numpy*
+- *math*
+- *matplotlib*
+- *scipy*
  
-*datetime*  
-*time*
+- *datetime*  
+- *time*
 
-*plotly*
-*seaborn*
+- *plotly*
+- *seaborn*
 
 
