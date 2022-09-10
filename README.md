@@ -19,7 +19,7 @@
 
 *pandas*
 *numpy*
-*math
+*math*
 *matplotlib*
 *scipy*
  
